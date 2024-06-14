@@ -1,5 +1,5 @@
 Olá, meu nome é **Nathi**
-- Sou estudante
+- Sou estudante do ensino médio (3º ano)
 - Estou estudanhdo o Alura
 - **Estou me desenvolvendo na linguagem JavaScript**
 - Mas meu sonho é fazer medicina (formação em ortopedia)
